@@ -1,0 +1,14 @@
+<html>
+<head><title>Home<title></title><head></head>
+<body>
+  <nav>
+    <a href = '#'> Home | </a>
+    <a href = '#'> About | </a>
+    <a href = '#'> Contact | </a>
+     <a href = '#'> Sponsors | </a>
+  </nav>
+  <h1>My Learning Git Homepage</h1>
+  <p>This is the paragraph written for my UECS2363 first practical on Git and Github</p>
+  <p>You may make a sponsor to this project by navigating to Sponsors page in the navigation pane</p>
+</body>
+</html>
